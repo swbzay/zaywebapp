@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'SAS',
+    title: 'SAAS',
     description: "MVP Work in Progress",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
@@ -27,7 +27,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'ConsiousView App',
+    title: 'ConsciousView App',
     description: "ConsiousView",
     image: '/images/4.jpg',
     tags: ['YouTube', 'AWS', 'React'],
