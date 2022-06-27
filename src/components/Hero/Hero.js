@@ -9,7 +9,7 @@ const Hero = (props) => (
         <LeftSection>
             <SectionTitle main center>
                 {/* Welcome to <br /> */}
-                DevOps
+                Developer
             </SectionTitle>
             <SectionText>
                 “We can ignore reality, but we cannot ignore the consequences of ignoring reality."
