@@ -14,7 +14,7 @@ const Hero = (props) => (
             <SectionText>
                 “We can ignore reality, but we cannot ignore the consequences of ignoring reality."
             </SectionText>
-                <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+                <Button onClick={() => window.location = 'https://xavionmcdaniels.com/#about'}>Learn More</Button>
         </LeftSection>
     </Section>
 );
