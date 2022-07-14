@@ -32,7 +32,7 @@ const Technologies = () =>  (
                       Java <br />
                       NodeJs <br />
                       Databases <br />
-                      FireBase
+                      Firebase
                   </ListParagraph>
               </ListContainer>
           </ListItem>
