@@ -30,8 +30,9 @@ const Technologies = () =>  (
                   <ListParagraph>
                       Experience  <br />
                       Java <br />
-                      Node <br />
-                      Databases
+                      NodeJs <br />
+                      Databases <br />
+                      FireBase
                   </ListParagraph>
               </ListContainer>
           </ListItem>
