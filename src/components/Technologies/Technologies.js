@@ -1,5 +1,5 @@
 import React from 'react';
-import {DiFirebase, DiReact, DiUbuntu, DiUnitySmall, DiZend} from 'react-icons/di';
+import {DiCode, DiFirebase, DiJavascript, DiJavascript1, DiReact, DiUbuntu, DiUnitySmall, DiZend} from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -13,13 +13,15 @@ const Technologies = () =>  (
     </SectionText>
       <List>
           <ListItem>
-              <DiReact size={"3rem"} />
+              <DiCode size={"3rem"} />
               <ListContainer>
                   <ListTitle>Front-End</ListTitle>
                   <ListParagraph>
-                      Experience  <br />
-                      Javascript  <br />
-                      React.js
+                      Javascript <br />
+                       TypeScript <br />
+                      CSS / SASS <br />
+                      HTML <br />
+                      JSON
                   </ListParagraph>
               </ListContainer>
           </ListItem>
@@ -28,11 +30,23 @@ const Technologies = () =>  (
               <ListContainer>
                   <ListTitle>Back-End</ListTitle>
                   <ListParagraph>
-                      Experience  <br />
-                      Java <br />
-                      NodeJs <br />
-                      Databases <br />
-                      Firebase
+                      Java  <br />
+                      AWS  <br />
+                      MongoDB <br />
+                      MySQL <br />
+                      Firebase <br />
+                      Docker  <br />
+                  </ListParagraph>
+              </ListContainer>
+          </ListItem>
+          <ListItem>
+              <DiReact size={"3rem"} />
+              <ListContainer>
+                  <ListTitle>Frameworks / Libraries</ListTitle>
+                  <ListParagraph>
+                      ReactJs / Redux  <br />
+                      Node.Js <br />
+                      MaterialUI
                   </ListParagraph>
               </ListContainer>
           </ListItem>
@@ -41,7 +55,6 @@ const Technologies = () =>  (
               <ListContainer>
                   <ListTitle>Game-Dev</ListTitle>
                   <ListParagraph>
-                      Experience  <br />
                       Unity C# <br />
                       Unreal C++
                   </ListParagraph>
