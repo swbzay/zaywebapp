@@ -27,7 +27,9 @@ const Projects = () => (
                                <Tag key={i}>{tag}</Tag>
                             ))}
                         </TagList>
+
                     </div>
+
                             <UtilityList>
                                 <ExternalLinks href={visit}>IOS</ExternalLinks>
                                 <ExternalLinks href={source}>Android</ExternalLinks>
@@ -35,6 +37,7 @@ const Projects = () => (
 
                 </BlogCard>
                     ))}
+
         </GridContainer>
     </Section>
 );

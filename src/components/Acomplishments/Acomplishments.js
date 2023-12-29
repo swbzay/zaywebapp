@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 2021, text: 'SupErWin Studios LLC'},
-  { number: 2021, text: 'GIOTM LLC', },
+ /* { number: 2021, text: 'GIOTM LLC', },*/
     { number: 2021, text: 'McDaniels Trucking & Logistics LLC', },
   { number: 2021, text: 'Budget Cars For Less LLC', },
 ];
